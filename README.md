@@ -1,7 +1,6 @@
-## Hi there, I'm Lilit  👋 
-Welcome to my GitHub profile
+## Lilit Ajoyan
 
-🎯 Future MLOps Engineer 🤖⚙️
+🎯 Aspiring MLOps Engineer 🤖⚙️
 
 💻 I code in Python 🐍 
 
@@ -40,10 +39,6 @@ _My first project where I discovered my interest in working with SQL._
 
 ### ⚡ Interests
 Outside of coding, I enjoy yoga in nature, cycling, knitting, crocheting, and reading.
-
----
-
-I’m on a journey to become an MLOps engineer, learning step by step and building along the way.
 
 ---
 
