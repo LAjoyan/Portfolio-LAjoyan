@@ -1,25 +1,10 @@
-## Lilit Ajoyan
-
-🎯 Aspiring MLOps Engineer 🤖⚙️
-
-💻 I code in Python 🐍 
-
-📍 Based in Sweden 🌍
-
----
+## Lilit Ajoyan | Aspiring MLOps Engineer 🤖⚙️
 
 ### 🧠 About Me
 I’m currently learning programming with a focus on Python and problem-solving.
 I enjoy building small projects and improving my skills step by step.
 
 My goal is to become an MLOps engineer and work with machine learning systems in production.
-
----
-
-### 🚀 What I'm Doing
-🔭 I’m currently working on [Fullstack_LLMops_Project](https://github.com/LAjoyan/Fullstack_LLMops_Project)
-
-🌱 I’m learning Machine Learning and exploring related areas
 
 ---
 ### 📂 Featured Projects
