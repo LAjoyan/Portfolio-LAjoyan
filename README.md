@@ -1,6 +1,6 @@
 ## Lilit Ajoyan | Aspiring MLOps Engineer 🤖⚙️
 
-### 🧠 About Me
+## 🧠 About Me
 I’m currently learning programming with a focus on Python and problem-solving.
 I enjoy building small projects and improving my skills step by step.
 
@@ -8,14 +8,20 @@ My goal is to become an MLOps engineer and work with machine learning systems in
 
 ---
 
-### 🧪 Currently Experimenting With
+## 🧪 Currently Experimenting With
 
 [classifier-tournament-mlflow](https://github.com/LAjoyan/classifier-tournament-mlflow)
 
 Currently building a classification project where I test different machine learning classifiers, practice data preprocessing, train and evaluate models, and track experiments using MLflow.
 
 ---
-### 📂 Featured Projects
+## 📂 Featured Projects
+
+### 📚 **Study Buddy RAG**  
+Fullstack LLMOps project built with Streamlit, FastAPI, LanceDB and MLflow.  
+It helps students ask questions, generate quizzes and create flashcards from lecture material.
+
+🔗 [GitHub Repo](https://github.com/LAjoyan/Fullstack_LLMops_Project)
 
 ### 🚕 Taxi Trip Price Prediction System  
 
@@ -30,11 +36,11 @@ _My first project where I discovered my interest in working with SQL._
 
 ---
 
-### ⚡ Interests
+## ⚡ Interests
 Outside of coding, I enjoy yoga in nature, cycling, knitting, crocheting, and reading.
 
 ---
 
-### 📫 Contact
+## 📫 Contact
 -  💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/lilit-ajoyan-1565b4183/)
 -  📧 Email: ajoyan.lili@gmail.com
