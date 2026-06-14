@@ -8,11 +8,11 @@ My goal is to become an MLOps engineer and work with machine learning systems in
 
 ---
 
-## 🧪 Currently Experimenting With
+## 🧪 Previously Experimented With
 
 [classifier-tournament-mlflow](https://github.com/LAjoyan/classifier-tournament-mlflow)
 
-Currently building a classification project where I test different machine learning classifiers, practice data preprocessing, train and evaluate models, and track experiments using MLflow.
+Built a classification project to compare different machine learning classifiers, practice data preprocessing, train and evaluate models, and track experiments using MLflow.
 
 ---
 ## 📂 Featured Projects
