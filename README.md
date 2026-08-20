@@ -8,11 +8,8 @@ My goal is to become an MLOps engineer and work with machine learning systems in
 
 ---
 
-## 🧪 Previously Experimented With
-
-[classifier-tournament-mlflow](https://github.com/LAjoyan/classifier-tournament-mlflow)
-
-Built a classification project to compare different machine learning classifiers, practice data preprocessing, train and evaluate models, and track experiments using MLflow.
+### 🌱 Currently Learning
+- **Edge Computing:** Getting hands-on with the Raspberry Pi Pico W and MicroPython to build physical hardware projects. Check out my progress here: [GitHub/edge computing](https://github.com/LAjoyan/edge_computing).
 
 ---
 ## 📂 Featured Projects
