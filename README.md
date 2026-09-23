@@ -8,9 +8,11 @@ My goal is to become an MLOps engineer and work with machine learning systems in
 
 ---
 
-### 🌱 Currently Learning
-- **Edge Computing:** Getting hands-on with the Raspberry Pi Pico W and MicroPython to build physical hardware projects. Check out my progress here: [GitHub/edge computing](https://github.com/LAjoyan/edge_computing).
+## 🛠️ Recent Project
 
+* **[Edge Climate Telemetry](https://github.com/LAjoyan/edge-climate-telemetry)**
+  * Real-time edge IoT pipeline on Raspberry Pi Pico W with MicroPython, Mosquitto MQTT, TimescaleDB, Grafana, and automated Discord alerts.
+  * Local hardware safety checks with buzzer/LED alarms and a Wokwi digital twin simulation.
 ---
 ## 📂 Featured Projects
 
